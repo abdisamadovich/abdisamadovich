@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-# 👋 Hi ! I am Abdisamadovich 
+# 👋 Hi ! I am Abdisamadovich Islombek Boboqulov
 
 ### I'm a .NET developer.
 
@@ -19,4 +19,4 @@
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=abdisamadovich&show_icons=true&theme=dark)
 
-📫 Connect with me: [Linkedin](https://www.linkedin.com/in/boboquloff/) | [Telegram](https://t.me/boboquloff)
+📫 Connect with me: [Telegram](https://t.me/boboquloff)
