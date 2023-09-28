@@ -20,4 +20,4 @@
  ![Github stats](https://github-readme-stats.vercel.app/api?username=abdisamadovich&show_icons=true&theme=dark)
 
 📫 Connect with me: [Telegram](https://t.me/boboquloff)
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdisamadovich)
+📫 Connect with me: [linkedin](https://linkedin.com/in/abdisamadovich),
