@@ -11,9 +11,9 @@
 #### BIO
 
 
-- ⚙️ My specialty : `.Net`, `Asp.net Core`, 
+- ⚙️ My specialty : `.Net`, `Asp.net Core`, `postgresql`
 - 💻 My programming languages : `C#`, `C`, `Python`
-- ⚔️ Technogies and tools : `.Net`, `Git`,
+- ⚔️ Technogies and tools : `.Net`, `Git`,`postgre sql`
 - 🌱 Learning all about Open Source
 
 
