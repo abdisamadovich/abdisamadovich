@@ -6,7 +6,7 @@
 
 # 👋 Hi ! I am Abdisamadovich Islombek Boboqulov
 
-### I'm a .NET developer.
+### I'm a dotnet developer.
 
 #### BIO
 
